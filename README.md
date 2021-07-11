@@ -2,8 +2,8 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-* [RDA](http://www.wch.cn/)：[Cortex-A5](https://github.com/SoCXin/Cortex)
-* [L2R2](https://github.com/SoCXin/Level)：500 MHz
+* [unisoc](https://www.unisoc.com/)：[Cortex-A5](https://github.com/SoCXin/Cortex)
+* [L7R5](https://github.com/SoCXin/Level)：500 MHz
 
 ## [简介](https://github.com/SoCXin/UIS8910DM/wiki)
 
